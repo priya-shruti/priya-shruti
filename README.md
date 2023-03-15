@@ -20,6 +20,8 @@
 - :mailbox: How to reach me: &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Shruti%20Priya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti111/)
 
 ---
+
+### 🏆 GitHub Profile Trophy :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya-shruti" alt="priya-shruti" /></a> </p>
 
 ---
