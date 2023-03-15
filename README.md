@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 
 
-- :telescope: I’m persuing B.Tech from LNCT, Bhopal (2022-2026).
+- :telescope: I’m persuing Bachelor of Technology from LNCT, Bhopal (2022-2026).
 
 - :seedling: Exploring Web Development.
 
