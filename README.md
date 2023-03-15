@@ -17,7 +17,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and HackerRank.
 
-- :mailbox: How to reach me: &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Shruti%20Priya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti111/)
+- :mailbox: How to reach me: &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Shruti%20Priya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyashruti/)
 
 ---
 
